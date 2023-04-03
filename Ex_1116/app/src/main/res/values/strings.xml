@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ex_1116</string>
+
+    <string name="text1">카카오(KaKao)</string>
+    <string name="text2">"Connect Everting" 새로운 연결, 더 나은 세상</string>
+    <string name="text3">비전</string>
+    <string name="text4">카카오는 새로운 연결을 통해 더 편리하고 즐거운 세상을 꿈꿉니다. 사람과 사람, 사람과 기술을 한층 가깝게 연결함으로써 세상을 어제보다 더 나은 곳으로 만들기위해 노력하고 있습니다.
+    </string>
+</resources>

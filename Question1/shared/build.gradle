@@ -1,0 +1,18 @@
+plugins {
+    id 'com.android.library'
+}
+android {
+    namespace 'com.example.question1.shared'
+    compileSdkVersion 32
+
+    defaultConfig {
+        minSdkVersion 28
+        targetSdkVersion 32
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+}
+
+dependencies {
+    implementation 'androidx.media:media:1.6.0'
+}

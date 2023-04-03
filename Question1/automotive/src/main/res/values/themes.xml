@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Question1" parent="android:Theme.Material.Light.DarkActionBar" />
+</resources>
